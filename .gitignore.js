@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.tmp/
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.env
+.env.*
+.vscode/
+.DS_Store
+Thumbs.db
